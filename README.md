@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Fynnyx
-- 👀 I’m interested in Python and Java programming
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Fynnyx/Fynnyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi I’m Fynnyx, glad you found my GitHub.
+My intrests👀 are primarly Python🐍 and JavaScript🟨 devolpment. Right now I'm doing a apprenticeship as a IT-Engineer💻.
+The projekt's I'm working on are [discord.py-bots](https://github.com/Fynnyx/discord.py-bots)🤖 and working with Vue.js👁 at work.
+📫 You can reach me through my Discord (Fynnyx#4024) or my Email (westerathf@gmail.com).
