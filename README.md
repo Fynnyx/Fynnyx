@@ -18,35 +18,3 @@
 
 
 </div>
-<style>
-/* COLORS:
-    normal: rgba(185,133,81,255)
-    orange: rgba(185,133,81,255)
-    red:    rgba(173,62,61,255)
-*/
-.main {
-    background-color: rgba(35,39,46,255);
-    padding: 1rem;
-    width: 100%;
-}
-.text {
-    color: rgba(155,167,184,255);
-    margin: 2rem;
-}
-.text--orange {
-    color: rgba(185,133,81,255);
-}
-.text--red {
-    color: rgba(173,62,61,255)
-}
-.title {
-    background-color: rgba(62,69,85,255);
-    text-align: center;
-    border-radius: 0.5rem;
-    /* border: 0.15rem solid black; */
-    margin: 2rem;
-}
-.title--text {
-    color: rgba(144,151,164,255);
-}
-</style>
