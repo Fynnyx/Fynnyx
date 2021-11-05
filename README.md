@@ -18,4 +18,3 @@
 
 
 </div>
-<style>h1{color: blue !important;}</style>
