@@ -1,5 +1,9 @@
+# Hey Stranger, glad you found the way
 
-##About me
+
+
+
+## About me
 
 ```javascript
     const fynnyx = {
@@ -20,7 +24,7 @@
         job: {
             "name": "IT Developer",
             "company": "ETH Zürich"
-            
+        },
         hobbies: [
             "Scout Leader",
             "Developer",
@@ -46,6 +50,11 @@
                 "name": "ValorantWikiBot",
                 "description": "A Wiki implemented into a DiscordBot",
                 "github": null
+            },
+            {
+                "name": "FabsiBot",
+                "description": "Rewrite a Bot for my streamer friend.",
+                "github": "[FabsiBot](https://github.com/Fynnyx/FabsiBots)"
             }
         ]
       
@@ -53,3 +62,5 @@
           
   }    
 ```
+
+## My Projects
