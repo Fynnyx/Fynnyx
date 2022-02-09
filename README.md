@@ -1,6 +1,6 @@
 # Hey Stranger, glad you found the way
 
-
+[About me](https://github.com/Fynnyx#about-me) | [My Projects](https://github.com/Fynnyx#my-projects)
 
 
 ## About me
