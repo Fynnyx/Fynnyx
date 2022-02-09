@@ -4,8 +4,11 @@
 ```javascript
   const fynnyx = {
       "name": Fynn,
-      "lastanme": undefined,
-      "age": 17
+      "lastanme": null,
+      "age": 17,
+      "location": {
+          "country": "Switzerland",
+          "timezone": "UCT+1"
   }    
 ```
 
