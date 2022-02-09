@@ -1,12 +1,12 @@
 <div class="main">
 <h1>Image goes here</h1>
 
-<h1 class="title">
-<span class="title--text">About</span>
-</h1>
+##About me
 
-<p class="text">Hey <span class="text--orange">Stranger</span>,<br>I am <span class="text--red">Fynnyx</span> I'm 16 year's old and from Switzerland. One of my ⭐favorite hobby's is to 💻program. 
-</p>
+```javascript
+  const fynnyx = {
+    
+```
 
 <h3 class="title">
 <span class="title--text">Sitemap</span>
