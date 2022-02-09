@@ -57,9 +57,6 @@
                 "github": "[FabsiBot](https://github.com/Fynnyx/FabsiBots)"
             }
         ]
-      
-
-          
   }    
 ```
 
