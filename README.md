@@ -1,11 +1,12 @@
-<div class="main">
-<h1>Image goes here</h1>
 
 ##About me
 
 ```javascript
   const fynnyx = {
-    
+      "name": Fynn,
+      "lastanme": undefined,
+      "age": 17
+  }    
 ```
 
 <h3 class="title">
