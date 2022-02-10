@@ -65,7 +65,27 @@ const fynnyx = {
 
 ## My Projects
 
-<div>
-<a href=""><h3>KahlifarBots</h3></a>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=KahlifarBots&show_owner=true&&title_color=e5b05e&icon_color=8c61db&text_color=e06151&bg_color=23272e&show_icons=true&hide_border=true&count_private=true">
+<div style=" width: 45%">
+    <a href="https://github.com/Fynnyx/KahlifarBots">
+        <h3 align="center">KahlifarBots</h3>
+    </a>
+    <a href="https://github.com/Fynnyx/KahlifarBots">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=KahlifarBots&show_owner=true&&title_color=8c61db&icon_color=56b6c2&text_color=e5b05e&bg_color=23272e&show_icons=true&hide_border=true&  count_private=true">
+    </a>
+    <p>
+        A user and a moderator bot for my own Community Discord Server. It generaly helps to keep the community up to date or just send applications to the staff team.
+    </p>
+</div>
+
+<div style=" width: 45%">
+    <a href="https://github.com/Fynnyx/ValorantWikiBot">
+        <h3 align="center">ValorantWikiBot</h3>
+    </a>
+    <a href="https://github.com/Fynnyx/ValorantWikiBot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=ValorantWikiBot&show_owner=true&&title_color=e5b05e&icon_color=8c61db&text_color=e06151&bg_color=23272e&show_icons=true&hide_border=true&count_private=true">
+    </a>
+    <p>
+        Using the Valorant API to get Agent, Weapons and more data.
+        Then implement these data into a DiscordBot and make it nice to use.
+    </p>
 </div>
