@@ -28,7 +28,7 @@
         hobbies: [
             "Scout Leader",
             "Developer",
-            "Owner of a Discord and Miencraft Server"
+            "Owner of a Discord and Minecraft Server"
         ],
         programmingLanguages: [
             {
