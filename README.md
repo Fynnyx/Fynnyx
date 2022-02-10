@@ -8,7 +8,7 @@
 
 ## About me
 
-```java
+```python
 const fynnyx = {
     name: "Fynn",
     lastname: null,
