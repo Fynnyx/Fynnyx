@@ -60,7 +60,12 @@ const fynnyx = {
             "github": "[FabsiBot](https://github.com/Fynnyx/FabsiBots)"
         }
     ]
-  }    
+}    
 ```
 
 ## My Projects
+
+<div>
+<a href=""><h3>KahlifarBots</h3></a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=KahlifarBots&show_owner=true&&title_color=e5b05e&icon_color=8c61db&text_color=e06151&bg_color=23272e&show_icons=true&hide_border=true&count_private=true">
+</div>
