@@ -10,7 +10,7 @@
 ```javascript
     const fynnyx = {
         name: "Fynn",
-        lastanme: null,
+        lastname: null,
         age: 17,
         location: {
             "country": "Switzerland",
