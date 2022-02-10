@@ -2,6 +2,8 @@
 
 [About me](https://github.com/Fynnyx#about-me) | [My Projects](https://github.com/Fynnyx#my-projects)
 
+![Fynnyx's Github Stats](https://github-readme-stats.vercel.app/api?username=Fynnyx&title_color=e5b05e&icon_color=8c61db&text_color=e06151&bg_color=23272e&show_icons=true&hide_border=true&count_private=true)
+
 
 ## About me
 
