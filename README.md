@@ -47,17 +47,17 @@ const fynnyx = {
         {
             "name": "KahlifarBots",
             "description": "A user and a moderator bot for my own Community Discord Server",
-            "github": "[KahlifarBots](https://github.com/Fynnyx/KahlifarBots)"
+            "github": https://github.com/Fynnyx/KahlifarBots
         },
         {
             "name": "ValorantWikiBot",
             "description": "A Wiki implemented into a DiscordBot",
-            "github": [ValorantWikiBot](https://github.com/Fynnyx/ValorantWikiBot)
+            "github": https://github.com/Fynnyx/ValorantWikiBot
         },
         {
             "name": "EdgyElonsEconomyBot",
             "description": "An Economy Bot for a NFT-Project.",
-            "github": "[EdgyElonsEconomyBot](https://github.com/Fynnyx/EdgyElonsEconomyBot))"
+            "github": https://github.com/Fynnyx/EdgyElonsEconomyBot
         }
     ]
 }    
