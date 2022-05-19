@@ -22,7 +22,7 @@ const fynnyx = {
             "German"
         ],
     contact: {
-        "email": "fynn05@gmx.com",
+        "email": "fynn05@gmx.ch",
         "discord": "Fynnyx#4024",
     job: {
         "name": "IT Developer",
@@ -36,7 +36,7 @@ const fynnyx = {
     programmingLanguages: [
         {
             "name": JavaScript,
-            "level": "Can work with it"
+            "level": "I can use Vue, Nuxt and Node"
         },
         {
             "name": Python,
@@ -52,12 +52,12 @@ const fynnyx = {
         {
             "name": "ValorantWikiBot",
             "description": "A Wiki implemented into a DiscordBot",
-            "github": null
+            "github": [ValorantWikiBot](https://github.com/Fynnyx/ValorantWikiBot)
         },
         {
-            "name": "FabsiBot",
-            "description": "Rewrite a Bot for my streamer friend.",
-            "github": "[FabsiBot](https://github.com/Fynnyx/FabsiBots)"
+            "name": "EdgyElonsEconomyBot",
+            "description": "An Economy Bot for a NFT-Project.",
+            "github": "[EdgyElonsEconomyBot](https://github.com/Fynnyx/EdgyElonsEconomyBot))"
         }
     ]
 }    
