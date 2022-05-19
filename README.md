@@ -11,7 +11,7 @@
 ```javascript
 const fynnyx = {
     name: "Fynn",
-    lastname: null,
+    lastname: "Westerath",
     age: 17,
     location: {
         "country": "Switzerland",
