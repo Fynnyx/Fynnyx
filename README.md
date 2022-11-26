@@ -1,6 +1,6 @@
 # Hey Stranger, glad you found the way
 
-[About me](https://github.com/Fynnyx#about-me) | [My Projects](https://github.com/Fynnyx#my-projects)
+[About me](https://github.com/Fynnyx#about-me)
 
 <div><img src="https://github-readme-stats.vercel.app/api?username=Fynnyx&title_color=e5b05e&icon_color=8c61db&text_color=e06151&bg_color=23272e&show_icons=true&hide_border=true&count_private=true" width="54.05%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fynnyx&layout=compact&title_color=e5b05e&icon_color=8c61db&text_color=317dde&bg_color=23272e&hide_border=true" width="45.25%">
