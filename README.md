@@ -24,6 +24,7 @@ const fynnyx = {
     contact: {
         "email": "fynn05@gmx.ch",
         "discord": "Fynnyx#4024",
+        "twitter": "Fynnyx_official"
     job: {
         "name": "IT Developer",
         "company": "ETH Zürich"
@@ -31,33 +32,33 @@ const fynnyx = {
     hobbies: [
         "Scout Leader",
         "Developer",
-        "Owner of a Discord and Minecraft Server"
+        "Owner Communty Discord"
     ],
     programmingLanguages: [
         {
-            "name": JavaScript,
-            "level": "I can use Vue, Nuxt and Node"
+            "name": "JavaScript",
+            "usage": "Often used Node => Vue and Nuxt and Discord Bots"
         },
         {
-            "name": Python,
-            "level": "Good"
+            "name": "Python",
+            "usage": "Small apps and first Discord Bots"
         }
     ],
     projects: [
         {
             "name": "KahlifarBots",
-            "description": "A user and a moderator bot for my own Community Discord Server",
-            "github": https://github.com/Fynnyx/KahlifarBots
+            "description": "A user and a moderation bot for my own Community Discord Server",
+            "github": "https://github.com/Fynnyx/KahlifarBots"
         },
         {
             "name": "ValorantWikiBot",
             "description": "A Wiki implemented into a DiscordBot",
-            "github": https://github.com/Fynnyx/ValorantWikiBot
+            "github": "https://github.com/Fynnyx/ValorantWikiBot"
         },
         {
             "name": "EdgyElonsEconomyBot",
             "description": "An Economy Bot for a NFT-Project.",
-            "github": https://github.com/Fynnyx/EdgyElonsEconomyBot
+            "github": "https://github.com/Fynnyx/EdgyElonsEconomyBot"
         }
     ]
 }    
