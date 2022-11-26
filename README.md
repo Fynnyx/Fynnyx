@@ -62,30 +62,3 @@ const fynnyx = {
     ]
 }    
 ```
-
-## My Projects
-<div align="center">
-    <a href="https://github.com/Fynnyx/KahlifarBots">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=KahlifarBots&show_owner=true&&title_color=8c61db&icon_color=56b6c2&text_color=e5b05e&bg_color=23272e&show_icons=true&hide_border=true&  count_private=true">
-    </a> <a href="https://github.com/Fynnyx/ValorantWikiBot">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=ValorantWikiBot&show_owner=true&&title_color=8c61db&icon_color=56b6c2&text_color=e5b05e&bg_color=23272e&show_icons=true&hide_border=true&  count_private=true">
-    </a>
-</div>
-<br>
-<div align="center">
-    <a href="https://github.com/Fynnyx/BasicBot-discord.js">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=BasicBot-discord.js&show_owner=true&&title_color=8c61db&icon_color=56b6c2&text_color=e5b05e&bg_color=23272e&show_icons=true&hide_border=true&  count_private=true">
-    </a>
-    <a href="https://github.com/Fynnyx/FabsiBots">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=FabsiBots&show_owner=true&&title_color=8c61db&icon_color=56b6c2&text_color=e5b05e&bg_color=23272e&show_icons=true&hide_border=true&  count_private=true">
-    </a>
-</div>
-<br>
-<!-- <div align="center">
-    <a href="https://github.com/Fynnyx/ValorantWikiBot">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=ValorantWikiBot&show_owner=true&&title_color=8c61db&icon_color=56b6c2&text_color=e5b05e&bg_color=23272e&show_icons=true&hide_border=true&  count_private=true">
-    </a>
-    <a href="https://github.com/Fynnyx/ValorantWikiBot">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fynnyx&repo=ValorantWikiBot&show_owner=true&&title_color=8c61db&icon_color=56b6c2&text_color=e5b05e&bg_color=23272e&show_icons=true&hide_border=true&  count_private=true">
-    </a>
-</div> -->
