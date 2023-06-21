@@ -12,7 +12,7 @@
 const fynnyx = {
     name: "Fynn",
     lastname: "Westerath",
-    age: 17,
+    age: 18,
     location: {
         "country": "Switzerland",
         "timezone": "UCT+1",
@@ -23,7 +23,7 @@ const fynnyx = {
         ],
     contact: {
         "email": "fynn05@gmx.ch",
-        "discord": "Fynnyx#4024",
+        "discord": "fynnyx",
         "twitter": "Fynnyx_official"
     job: {
         "name": "IT Developer",
@@ -37,7 +37,7 @@ const fynnyx = {
     programmingLanguages: [
         {
             "name": "JavaScript",
-            "usage": "Often used Node => Vue and Nuxt and Discord Bots"
+            "usage": "Discord Bots with Node.js and Webpages with Nuxt.JS"
         },
         {
             "name": "Python",
@@ -46,9 +46,14 @@ const fynnyx = {
     ],
     projects: [
         {
-            "name": "KahlifarBots",
+            "name": "KahlifarBotsv14",
             "description": "A user and a moderation bot for my own Community Discord Server",
-            "github": "https://github.com/Fynnyx/KahlifarBots"
+            "github": "https://github.com/Kahlifar/KahlifarBotsv14"
+        },
+        {
+            "name": "KahlifarWebsite",
+            "description": "For the community I created a website. https://kahlifar.de",
+            "github": "https://github.com/Kahlifar/KahlifarWebsite"
         },
         {
             "name": "ValorantWikiBot",
