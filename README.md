@@ -1,12 +1,16 @@
-# Hey Stranger, glad you found the way
+<h1 align="center"> Hi Stranger, glad you found the way. <br> My name is Fynn Westerath 🧑🏽‍💻</h1>
 
-[About me](https://github.com/Fynnyx#about-me)
-
-<div><img src="https://github-readme-stats.vercel.app/api?username=Fynnyx&title_color=e5b05e&icon_color=8c61db&text_color=e06151&bg_color=23272e&show_icons=true&hide_border=true&count_private=true" width="54.05%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fynnyx&layout=compact&title_color=e5b05e&icon_color=8c61db&text_color=317dde&bg_color=23272e&hide_border=true" width="45.25%">
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Fynnyx&title_color=e5b05e&icon_color=8c61db&text_color=e06151&bg_color=23272e&show_icons=true&hide_border=true&count_private=true" width="55.5%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fynnyx&layout=compact&title_color=e5b05e&icon_color=8c61db&text_color=317dde&bg_color=23272e&hide_border=true" width="42.5%">
 </div>
 
 ## About me
+> Switzerland (:flag_de:, :flag_us:) 
+> 18 :birthday:  
+> `he/him` :flag_bi~1: 
+> Developer (`.js`, `.py`, `.java`, )
+> Photography :park:, VALORANT, LOL, MC
 
 ```javascript
 const fynnyx = {
