@@ -5,12 +5,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fynnyx&layout=compact&title_color=e5b05e&icon_color=8c61db&text_color=317dde&bg_color=23272e&hide_border=true" width="42.5%">
 </div>
 
+![](https://komarev.com/ghpvc/?username=fynnyx&color=blueviolet)
+
 ## About me
 > Switzerland 🇨🇭(🇩🇪, 🇺🇸)
 
 > 18 🎂
 
-> [![Pronouns]](https://img.shields.io/badge/any_text-you_like-blue)](#) :flag_bi~1:
+> `he/him` (bisexual)
 
 > [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css,nuxtjs,sass,git,github,linux,vscode,twitter,discord)](https://skillicons.dev)
 
