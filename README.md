@@ -10,9 +10,9 @@
 
 > 18 🎂
 
-> `he/him` :flag_bi~1:
+> [![Pronouns]](https://img.shields.io/badge/any_text-you_like-blue)](#) :flag_bi~1:
 
-> [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css,nuxtjs,sass,git,github,linux,vscode,twitter,discord)](https://skillicons.dev)
 
 > Photography 🏞️, VALORANT, League of Legends, Minecraft Builder
 
