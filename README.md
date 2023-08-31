@@ -13,7 +13,10 @@ Switzerland 🇨🇭(🇩🇪, 🇺🇸)
 `he/him` (bisexual)
 
 ### Hobbies
-Photography 🏞️, VALORANT, League of Legends, Minecraft Builder
+- Photography 🏞️
+- VALORANT
+- League of Legends
+- Minecraft Builder
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css,nuxtjs,sass,git,github,linux,vscode,twitter,discord)](https://skillicons.dev)
