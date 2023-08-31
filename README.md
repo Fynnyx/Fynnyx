@@ -41,5 +41,4 @@ const projects = [
             "github": "https://github.com/Fynnyx/EdgyElonsEconomyBot"
         }
     ]
-}    
 ```
