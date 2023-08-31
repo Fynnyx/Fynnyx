@@ -9,7 +9,9 @@
 
 ## About me
 Switzerland 🇨🇭(🇩🇪, 🇺🇸)
+
 18 🎂
+
 `he/him` (bisexual)
 
 ### Hobbies
