@@ -19,8 +19,7 @@
 > Photography 🏞️, VALORANT, League of Legends, Minecraft Builder
 
 ```javascript
-const fynnyx = {
-    projects: [
+const projects = [
         {
             "name": "KahlifarBotsv14",
             "description": "A user and a moderation bot for my own Community Discord Server",
