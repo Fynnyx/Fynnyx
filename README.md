@@ -6,48 +6,18 @@
 </div>
 
 ## About me
-> Switzerland (:flag_de:, :flag_us:) 
-> 18 :birthday:  
-> `he/him` :flag_bi~1: 
-> Developer (`.js`, `.py`, `.java`, )
-> Photography :park:, VALORANT, LOL, MC
+> Switzerland 🇨🇭(🇩🇪, 🇺🇸)
+
+> 18 🎂
+
+> `he/him` :flag_bi~1:
+
+> [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css)](https://skillicons.dev)
+
+> Photography 🏞️, VALORANT, League of Legends, Minecraft Builder
 
 ```javascript
 const fynnyx = {
-    name: "Fynn",
-    lastname: "Westerath",
-    age: 18,
-    location: {
-        "country": "Switzerland",
-        "timezone": "UCT+1",
-    },
-    languages: [
-            "English",
-            "German"
-        ],
-    contact: {
-        "email": "fynn05@gmx.ch",
-        "discord": "fynnyx",
-        "twitter": "Fynnyx_official"
-    job: {
-        "name": "IT Developer",
-        "company": "ETH Zürich"
-    },
-    hobbies: [
-        "Scout Leader",
-        "Developer",
-        "Owner Communty Discord"
-    ],
-    programmingLanguages: [
-        {
-            "name": "JavaScript",
-            "usage": "Discord Bots with Node.js and Webpages with Nuxt.JS"
-        },
-        {
-            "name": "Python",
-            "usage": "Small apps and first Discord Bots"
-        }
-    ],
     projects: [
         {
             "name": "KahlifarBotsv14",
