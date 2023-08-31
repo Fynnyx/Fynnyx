@@ -18,6 +18,7 @@
 
 > Photography 🏞️, VALORANT, League of Legends, Minecraft Builder
 
+## Projects
 ```javascript
 const projects = [
         {
