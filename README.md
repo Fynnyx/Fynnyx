@@ -8,15 +8,15 @@
 ![](https://komarev.com/ghpvc/?username=fynnyx&color=blueviolet)
 
 ## About me
-> Switzerland 🇨🇭(🇩🇪, 🇺🇸)
+Switzerland 🇨🇭(🇩🇪, 🇺🇸)
+18 🎂
+`he/him` (bisexual)
 
-> 18 🎂
+### Hobbies
+Photography 🏞️, VALORANT, League of Legends, Minecraft Builder
 
-> `he/him` (bisexual)
-
+## Skills
 > [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css,nuxtjs,sass,git,github,linux,vscode,twitter,discord)](https://skillicons.dev)
-
-> Photography 🏞️, VALORANT, League of Legends, Minecraft Builder
 
 ## Projects
 ```javascript
