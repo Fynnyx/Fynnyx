@@ -8,11 +8,9 @@
 ![](https://komarev.com/ghpvc/?username=fynnyx&color=blueviolet)
 
 ## About me
-Switzerland 🇨🇭(🇩🇪, 🇺🇸)
-
-18 🎂
-
-`he/him`
+- Switzerland 🇨🇭(🇩🇪, 🇺🇸)
+- 18 🎂
+- `he/him`
 
 ### Hobbies
 - Scouts (https://hochwacht.ch)
@@ -20,5 +18,5 @@ Switzerland 🇨🇭(🇩🇪, 🇺🇸)
 - League of Legends
 - Minecraft Builder
 
-## Skills
+<h2 align="center"> Technology Stack </h2>
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css,nuxtjs,sass,git,github,linux,vscode,twitter,discord)](https://skillicons.dev)
