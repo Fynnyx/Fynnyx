@@ -7,7 +7,13 @@
 
 ![](https://komarev.com/ghpvc/?username=fynnyx&color=blueviolet)
 
-Currently, I am finishing my apprenticeship as a Software Developer at ETH Zurich. 
+<p align="center" >Currently, I am finishing my apprenticeship as a Software Developer at ETH Zurich 🏫. I'm 19 years old and live near Baden CH. 
+I love to develop different tools for automating processes or making any life easier with different technologies. <br>
+<br>
+In my free time I am an active leader in the local scout group ⚜️.
+</p>
+
+
 
 ### Hobbies
 - Scouts (https://hochwacht.ch)
