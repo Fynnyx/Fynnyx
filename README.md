@@ -12,7 +12,7 @@ Switzerland 🇨🇭(🇩🇪, 🇺🇸)
 
 18 🎂
 
-`he/him` (bisexual)
+`he/him`
 
 ### Hobbies
 - Scouts (https://hochwacht.ch)
