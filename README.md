@@ -19,4 +19,5 @@
 - Minecraft Builder
 
 <h2 align="center"> Technology Stack </h2>
+
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css,nuxtjs,sass,git,github,linux,vscode,twitter,discord)](https://skillicons.dev)
