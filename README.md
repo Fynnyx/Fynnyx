@@ -7,10 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fynnyx&color=blueviolet)
 
-## About me
-- Switzerland 🇨🇭(🇩🇪, 🇺🇸)
-- 18 🎂
-- `he/him`
+Currently, I am finishing my apprenticeship as a Software Developer at ETH Zurich. 
 
 ### Hobbies
 - Scouts (https://hochwacht.ch)
