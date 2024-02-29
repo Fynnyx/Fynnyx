@@ -15,8 +15,8 @@ Switzerland 🇨🇭(🇩🇪, 🇺🇸)
 `he/him` (bisexual)
 
 ### Hobbies
+- Scouts (https://hochwacht.ch)
 - Photography 🏞️
-- VALORANT
 - League of Legends
 - Minecraft Builder
 
