@@ -22,29 +22,3 @@ Switzerland 🇨🇭(🇩🇪, 🇺🇸)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,html,css,nuxtjs,sass,git,github,linux,vscode,twitter,discord)](https://skillicons.dev)
-
-## Projects
-```javascript
-const projects = [
-        {
-            "name": "KahlifarBotsv14",
-            "description": "A user and a moderation bot for my own Community Discord Server",
-            "github": "https://github.com/Kahlifar/KahlifarBotsv14"
-        },
-        {
-            "name": "KahlifarWebsite",
-            "description": "For the community I created a website. https://kahlifar.de",
-            "github": "https://github.com/Kahlifar/KahlifarWebsite"
-        },
-        {
-            "name": "ValorantWikiBot",
-            "description": "A Wiki implemented into a DiscordBot",
-            "github": "https://github.com/Fynnyx/ValorantWikiBot"
-        },
-        {
-            "name": "EdgyElonsEconomyBot",
-            "description": "An Economy Bot for a NFT-Project.",
-            "github": "https://github.com/Fynnyx/EdgyElonsEconomyBot"
-        }
-    ]
-```
